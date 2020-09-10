@@ -16,3 +16,14 @@
 	display: block;
 	margin-top: 2em;
 }
+body {
+	background-color: cyan;
+} 
+
+img {
+	border: 2px solid green;
+}
+
+h1 {
+	text-align: center;
+}
